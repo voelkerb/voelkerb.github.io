@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/voelkerb/voelkerb.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a research associate of the Chair of Computer Architecture at the University of Freiburg, Germany, where I am working since 2016. I previously studied in Freiburg and received the M.Sc. in Embbed Systems Engineering in 2016. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My current research focuses on wirelessly connected embedded systems, particular in the field of electricity data generation and distribution. 
 
-### Markdown
+I am teaching several lab courses at the university including _Microcontroller and FPGA Systems_ and _Wearable Computing Systems_.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Short Bio
 
-```markdown
-Syntax highlighted code block
+**since 04/2016:** Doctoral candidate, Chair of Computer Architecture, Deparment of Computer Science, University of Freiburg, Germany
+**10/2013 - 04/2016:*** M.Sc. Embedded Systems Engineering, University of Freiburg, Germany
+**10/2009 - 10/2013:*** B.Sc. Embedded Systems Engineering, University of Freiburg, Germany
 
-# Header 1
-## Header 2
-### Header 3
+### Thesis
 
-- Bulleted
-- List
+**anticitpated 2021:** Doctor of engineering, thesis title "Acquiring, Congregating and Processing High-Frequency Electricity Data in Distributed Environments", Computer Architecture, University of Freiburg, Germany
 
-1. Numbered
-2. List
+**10/2007:** Master's thesis title "Wake-Up-Word Spotting on Microcontrollers in Centralized, Voice-Controlled, Retrospective Smart Homes", Computer Architecture, University of Freiburg, Germany
 
-**Bold** and _Italic_ and `Code` text
+**10/2007:** Bachelor's thesis title "Stabilität und Sicherheit bei der Bewegung im dreidimensionalen Raum mit einer Quadrokopter-Plattform", Computer Architecture, University of Freiburg, Germany
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/voelkerb/voelkerb.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
