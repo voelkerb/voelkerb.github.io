@@ -8,15 +8,13 @@ I am teaching several lab courses at the university including _Microcontroller a
 
 ### Short Bio
 
-**since 04/2016:** Doctoral candidate, Chair of Computer Architecture, Deparment of Computer Science, University of Freiburg, Germany
-**10/2013 - 04/2016:*** M.Sc. Embedded Systems Engineering, University of Freiburg, Germany
-**10/2009 - 10/2013:*** B.Sc. Embedded Systems Engineering, University of Freiburg, Germany
+* **since 04/2016:** Doctoral candidate, Chair of Computer Architecture, Deparment of Computer Science, University of Freiburg, Germany
+* **10/2013 - 04/2016:** M.Sc. Embedded Systems Engineering, University of Freiburg, Germany
+* **10/2009 - 10/2013:** B.Sc. Embedded Systems Engineering, University of Freiburg, Germany
 
 ### Thesis
 
-**anticitpated 2021:** Doctor of engineering, thesis title "Acquiring, Congregating and Processing High-Frequency Electricity Data in Distributed Environments", Computer Architecture, University of Freiburg, Germany
-
-**10/2007:** Master's thesis title "Wake-Up-Word Spotting on Microcontrollers in Centralized, Voice-Controlled, Retrospective Smart Homes", Computer Architecture, University of Freiburg, Germany
-
-**10/2007:** Bachelor's thesis title "Stabilität und Sicherheit bei der Bewegung im dreidimensionalen Raum mit einer Quadrokopter-Plattform", Computer Architecture, University of Freiburg, Germany
+* **anticitpated 2021:** Doctor of engineering, thesis title "Acquiring, Congregating and Processing High-Frequency Electricity Data in Distributed Environments", Computer Architecture, University of Freiburg, Germany
+* **10/2007:** Master's thesis title "Wake-Up-Word Spotting on Microcontrollers in Centralized, Voice-Controlled, Retrospective Smart Homes", Computer Architecture, University of Freiburg, Germany
+* **10/2007:** Bachelor's thesis title "Stabilität und Sicherheit bei der Bewegung im dreidimensionalen Raum mit einer Quadrokopter-Plattform", Computer Architecture, University of Freiburg, Germany
 
