@@ -61,6 +61,7 @@ nav.links a {
 nav.links a:hover { text-decoration: none; border-color: var(--accent); }
 
 h2 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 44px 0 14px; }
+.app-category { font-size: 1rem; color: var(--text); margin: 24px 0 12px; }
 
 .panel {
   background: var(--card);
@@ -94,7 +95,7 @@ h2 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; colo
 }
 .app:hover { transform: translateY(-2px); text-decoration: none; }
 .app img { width: 84px; height: 84px; border-radius: 19px; box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25); flex: none; }
-.app h3 { margin: 0 0 4px; font-size: 1.3rem; }
+.app h4 { margin: 0 0 4px; font-size: 1.3rem; }
 .app p { margin: 0; color: var(--muted); }
 .app .chev { margin-left: auto; color: var(--muted); font-size: 1.6rem; }
 
